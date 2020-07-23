@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Segundo Ejemplo/Segunda Escena.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
